@@ -29,7 +29,7 @@ public class ObjectCopy {
 	  for(String s: strarr) {
 		  System.out.println(s);
 	  }
-
+ 
 		
 	}
 
